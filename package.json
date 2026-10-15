@@ -1,0 +1,8 @@
+{
+  "name": "practica-jomat-5basico",
+  "private": true,
+  "description": "Práctica JOMAT 5º básico",
+  "scripts": {
+    "test": "node tests/test.js"
+  }
+}
